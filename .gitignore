@@ -1,1 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
 keys.json
+.DS_Store
+.env
+.vscode/
+data/*.zip
+*.sqlite3
+
